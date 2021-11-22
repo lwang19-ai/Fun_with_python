@@ -5,7 +5,7 @@
 import numpy as np
 
 #%% create an array from a list
-Array_11 = np.array([1,2,3,4,5,])
+Array_11 = np.array([1,2,3,4,5])
 Array_12 = np.array([3.14, 4, 2, 3])
 Array_13 = np.array([1, 2, 3, 4], dtype='float32')
 
@@ -14,6 +14,8 @@ Array_21 = np.zeros(10, dtype=int)
 Array_22 = np.ones((3, 5), dtype=float)
 Array_23 = np.arange(0, 20, 2)
 Array_24 = np.random.normal(0, 1, (3, 3))
+
+
 
 #%% data type , note
 # NumPy Array Attributes
