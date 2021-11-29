@@ -4,7 +4,7 @@ save_data_on_exit = True
 save_history = True
 save_non_project_files = False
 project_type = empty-project-type
-recent_files = ['PandasExample.py']
+recent_files = ['PandasExample.py', '../mnt_chronos3/data01/afvalzorga/Database_Upload/Scripts/Afvalzorg_Upload/Afvalzorg_Lab2DB_01.py']
 
 [main]
 version = 0.2.0
